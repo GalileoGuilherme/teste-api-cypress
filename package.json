@@ -11,5 +11,16 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^10.9.0"
-  }
+  },
+  "dependencies": {
+    "joi": "^17.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalileoGuilherme/teste-api-cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GalileoGuilherme/teste-api-cypress/issues"
+  },
+  "homepage": "https://github.com/GalileoGuilherme/teste-api-cypress#readme"
 }
